@@ -12,7 +12,7 @@ public class CaixaEletronico {
 		System.out.println("Saldo insuficiente.");
 	}
 	
-	System.out.println("Seu saldo é: " + "R$" + saldo);
+	System.out.println("Seu saldo é: R$ " + saldo);
 
 	}
 
